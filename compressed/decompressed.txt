@@ -1,0 +1,69 @@
+ KANIZ ZAINAB CHOWDHURY  
+ 
+Enthusiastic and detail -oriented engineering student specializing in Information Science, seeking entry level opportunities in 
+the fields of Machine Learning and Full Stack Development . Eager to apply academic knowledge and hands -on project 
+experience to build intelligent, end -to-end solutions that solve real -world problems.  
+ 
+Phone: +91 8431600934                                             E-Mail: kaniz.zc@gmail.com                                                 LinkedIn  | GitHub  
+Profile Summary  
+ Pursuing B .E. in Information Science & Engineering  from Sir M Visvesvaraya Ins titute of Technology, Bangalore.  
+ Strong interest and hands -on experience in Machine Learning  and Full Stack Development , with multiple academic 
+projects applying real -world solutions.  
+ Led development of projects such as a real -time drowsiness  detection system, smart recruitment platform, and a 
+multilingual chatbot with voice/text integration.  
+ Skilled in end -to-end project development  from UI/UX design & backend integration to ML model training & deployment.  
+ Enhancing domain expertise through NPTEL -certified courses  from IITs in Machine Learning & Python programming.  
+ Effective team leader with experience managing 4 -member project teams and delivering results under tight deadlines.  
+ Excell ent communication, problem -solving & collaborative skills  gained th rough hackathons, volunteering & workshop 
+participation.  
+ Passionate about using technology to build scalable, user -focused applications with potential for social & public sector impact.  
+Core Competencies  
+ Software Development & 
+Implementation  
+ Machine Learning & Model Building  
+ Computer Vision & Image 
+Processing  
+  Chatbot Design & Natural Language 
+Processing  
+ Project Leadership & Team 
+Coordination  
+ Data Interpretation & Visualization   Automation  and Workflow 
+Optimization  
+ Resume Screening & HR Tech Solutions  
+ User Interface Planning & Integration  
+ 
+Certifications  
+ Pursuing NPTEL -certified courses  in Machine Learning and Full Stack Development from IITs.  
+ 
+Projects Experience  
+Real -Time Driver’s Drowsiness Detection  |Team Lead | Team Size: 4  
+ Designed and implemented a real -time driver alertness monitoring system using OpenCV and deep learning.  
+ Integrated facial landmark detection and blink analysis to identify early signs of drowsiness.  
+ 
+Smart Recruitment System (Ongoing)  | Team Lead | Team Size: 4  
+ Leading development of a machine learning -based platform for intelligent resume sreening and job -role matching.  
+ Involved in skill extraction, applicant scoring, and frontend dashboard development.  
+ 
+Grandma’s RemedyBot | Developer  
+ Built a multilingual chatbot using Flask to share natural home remedies through voice commands and chat.  
+ Integrated text -to-speech functionality, real -time reminders using a scheduler & Twilio APIs for SMS/WhatsApp alerts.  
+ 
+Extracurricular  Achievements  
+ Secured 3rd Prize  in Elocution Competition organized by GAIL  at Nagarjuna Vidyaniketan (2018)  
+ NSS Volunteer  at Sir MVIT (2023 –2025), actively involved in social and community service initiatives  
+ Participated in an inter -college  Hackathon , developed a functional prototype within 24 hours  
+ Volunteered for Sir MVIT Annual Fest , handled logistics and event coordination  
+ Attended workshops on Git & DevOps  conducted by Sir MVIT, gaining experience in vers ion control & automation tools  
+ 
+Technical Skills   
+ Programming Languages:  Python, Java, C/C++  
+ Frameworks & Tools:  TensorFlow, Matplotlib, Git, Jenkins  
+ Technologies:  Machine Learning, Data Visualization, DevOps  
+ 
+Education  
+ Bachelor of Engineering (B.E.), Information Science and Engineering  |Sir M Visvesvaraya Institute of Technology, 
+Bangalore  |2022 – 2026 (Expected)  
+Personal Details  
+Date of Birth:  7th January  2003  
+Languages Known:  English , Hindi & Bengali  
+Address : D-301, Arun Patios, Yelaha nka, Bengaluru, Karnataka, India  

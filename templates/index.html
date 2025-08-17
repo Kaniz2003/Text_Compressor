@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Huffman Text Compressor</title>
+</head>
+<body style="font-family: Arial; text-align:center; margin: 50px;">
+    <h1>Huffman Text Compressor</h1>
+
+    <form method="POST" enctype="multipart/form-data">
+        <h3>Enter text:</h3>
+        <textarea name="text" rows="6" cols="50" placeholder="Enter text here..."></textarea><br><br>
+
+        <h3>Or upload a file (.txt, .docx, .pdf, .bin):</h3>
+        <input type="file" name="file"><br><br>
+
+        <button type="submit">Submit</button>
+
+        
+    </form>
+
+    {% if error %}
+        <p style="color:red">{{ error }}</p>
+    {% endif %}
+</body>
+</html>

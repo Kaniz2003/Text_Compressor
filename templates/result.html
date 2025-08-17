@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Compression Result</title>
+</head>
+<body style="font-family: Arial; text-align:center; margin: 50px;">
+    <h1>Result</h1>
+
+    {% if original %}
+        <p><b>Original Text (preview):</b> {{ original }}</p>
+    {% endif %}
+
+    {% if compressed %}
+        <p><b>Compressed Binary (preview):</b> {{ compressed }}</p>
+    {% endif %}
+
+    {% if decompressed %}
+        <p><b>Decompressed Text (preview):</b> {{ decompressed }}</p>
+    {% endif %}
+
+    <p><b>Compression Ratio:</b> {{ ratio }}</p>
+
+    {% if codes %}
+    <h3>Huffman Codes:</h3>
+    <ul style="list-style:none;">
+        {% for char, code in codes.items() %}
+            <li>{{ char|e }} → {{ code }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+
+    <br>
+    <a href="/download/{{ download_file }}" style="padding:10px; background:#007BFF; color:white; text-decoration:none; border-radius:5px;">⬇ Download File</a>
+    <br><br>
+
+    <a href="/">Go Back</a>
+</body>
+</html>
+
